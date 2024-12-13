@@ -18,9 +18,9 @@
 - :computer: I am passionate about programming and databases.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: I like mathematics and soccer.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
 - ✉️ &nbsp;You can shoot me an email at noyolat.pablos.p8@gmail.com! I'll try to respond as soon as I can.
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :boom: You can visit [MY WEBSITE]().
 <br>
 
 ## 🛠️ My Skills
