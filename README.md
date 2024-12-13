@@ -23,3 +23,43 @@
 - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 <br>
 
+## 🛠️ My Skills
+
+### <picture> 
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px">  
+</picture> Programming languages
+
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.mysql.com/" target="_blank">
+    <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%2300f.svg?style=plastic&logo=mysql&logoColor=white">
+  </a>
+</p>
+
+## <picture> 
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> 
+</picture> Check out my Social Media
+
+<p align="center">
+  <a href="https://www.instagram.com/sebas.nyt/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  &emsp;
+  <a href="https://www.tiktok.com/@seebastiannyt">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=plastic&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+</p>
+
+
